@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local configuration
+config.json
+
+# Private / production templates
+templates/
+plantilles/
+
+# Build outputs
+build/
+dist/
+DISTRIBUIR/
+*.spec
+*.exe
+*.7z
+*.zip
+
+# Office/PDF production docs
+*.doc
+*.docx
+*.pdf
+
+# Logs and local state
+*.log
+logs/
+.AppData/
