@@ -1,0 +1,7 @@
+{
+  "app_name": "Batch Folder Template Generator",
+  "app_subtitle": "Local desktop utility for batch folder creation",
+  "folder_prefix": "Case ",
+  "folder_suffix": "",
+  "id_pattern": "^\\d+$"
+}
